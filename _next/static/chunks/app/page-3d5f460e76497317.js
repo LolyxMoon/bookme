@@ -23,7 +23,7 @@
                 rotateY: [0, 2, 0],
               },
               transition: { duration: 6, repeat: 1 / 0, ease: "easeInOut" },
-              children: "WHAT IS BOOK OF BNB?",
+              children: "WHAT IS BOOK OF DYOR?",
             }),
             (0, l.jsx)(c.P.p, {
               className: "single-day text-black text-xl !leading-[100%]",
@@ -34,7 +34,7 @@
               },
               transition: { duration: 8, repeat: 1 / 0, ease: "easeInOut" },
               children:
-                "Book of BNB ($ABC) is a meme token inspired by Binance’s legendary “book” moment. It celebrates the culture, humor, and community of crypto while carrying forward the spirit of that iconic tweet. Simple, fun, and community-driven it’s more than just a token, it’s a story.",
+                "Book of DYOR ($ABC) is a meme token inspired by Binance’s legendary “book” moment. It celebrates the culture, humor, and community of crypto while carrying forward the spirit of that iconic tweet. Simple, fun, and community-driven it’s more than just a token, it’s a story.",
             }),
           ],
         });
@@ -122,7 +122,7 @@
                   "flex items-center gap-2 absolute top-8 right-8 md:right-6",
                 children: [
                   (0, l.jsx)("a", {
-                    href: "https://x.com/BinanceBookABC",
+                    href: "https://x.com/BOOKOFDYOR",
                     children: (0, l.jsx)(i.default, {
                       src: "/x.svg",
                       alt: "logo",
@@ -130,28 +130,6 @@
                       height: 50,
                       className:
                         "drop-shadow-[10px_10px_20px_0px_#00000040]  transition-transform duration-300 hover:scale-110 hover:-translate-y-1",
-                    }),
-                  }),
-                  (0, l.jsx)("a", {
-                    href: "https://t.me/BinanceBookABC",
-                    children: (0, l.jsx)(i.default, {
-                      src: "/tg.svg",
-                      alt: "logo",
-                      width: 50,
-                      height: 50,
-                      className:
-                        "transition-transform duration-300 hover:scale-110 hover:-translate-y-1",
-                    }),
-                  }),
-                  (0, l.jsx)("a", {
-                    href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x6c5afb575315e83e4a424af40b639b20fb8a40dd",
-                    children: (0, l.jsx)(i.default, {
-                      src: "/unknown.svg",
-                      alt: "logo",
-                      width: 50,
-                      height: 50,
-                      className:
-                        "transition-transform duration-300 hover:scale-110 hover:-translate-y-1",
                     }),
                   }),
                   (0, l.jsxs)("a", {
@@ -173,7 +151,7 @@
               }),
               (0, l.jsx)("h1", {
                 className: "text-5xl text-white mama-bear mb-8",
-                children: "BOOK OF BNB",
+                children: "Drive Your Own Race with Pierre Gasly",
               }),
               (0, l.jsxs)("div", {
                 className:
@@ -302,7 +280,7 @@
                         className:
                           "single-day text-black text-xl !leading-[100%]",
                         children:
-                          "Book of BNB ($ABC) is a community-driven meme token on BNB Chain, blending fun, memes, and crypto vibes. We’re here to write a new chapter in meme coin history — with laughs, unity, and\xa0moon\xa0missions.",
+                          "Book of DYOR ($ABC) is a community-driven meme token on BNB Chain, blending fun, memes, and crypto vibes. We’re here to write a new chapter in meme coin history — with laughs, unity, and\xa0moon\xa0missions.",
                       }),
                     ],
                   }),
@@ -356,7 +334,7 @@
                             className:
                               "single-day text-black text-xl !leading-[100%]",
                             children:
-                              "It all started with a simple idea — what if memes and crypto could be combined into one powerful book of fun?",
+                              "It all started with a simple idea — what if F1 and crypto could be combined into one powerful book of dyor?",
                           }),
                         ],
                       }),
@@ -379,7 +357,7 @@
                           className:
                             "single-day text-black text-xl !leading-[100%] mt-20",
                           children:
-                            "That’s how Book of BNB ($ABC) was born. From community jokes to a real token, we’ve grown into a project that unites people with laughter, creativity, and the dream of going to the\xa0moon\xa0together.",
+                            "That’s how Book of DYOR ($ABC) was born. From community Formula F1 to a real token, we’ve grown into a project that unites people with Fast, Adreanaline, and the dream of going to the\xa0Podium\xa0together.",
                         }),
                       }),
                     ],
@@ -471,13 +449,13 @@
                         (0, l.jsx)("p", {
                           className:
                             "single-day text-black text-xl !leading-[100%]",
-                          children: "Swap for $BNBBOOK –",
+                          children: "Swap for $BOOKOFDYOR –",
                         }),
                         (0, l.jsx)("p", {
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%]",
                           children:
-                            "Paste the official $BNBBOOK contract address, enter the amount of BNB you want to swap, confirm the trade, and approve in your wallet.",
+                            "Paste the official $BOOKOFDYOR contract address, enter the amount of BNB you want to swap, confirm the trade, and approve in your wallet.",
                         }),
                       ],
                     }),
@@ -513,33 +491,23 @@
                           children: "Buy Now:",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://pancakeswap.finance/swap?outputCurrency=0x6c5afb575315e83e4a424af40b639b20fb8a40dd",
+                          href: "https://four.meme/",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
-                          children: "→ PancakeSwap",
+                          children: "→ FourMeme",
                         }),
                         (0, l.jsx)("p", {
                           className:
                             "mama-bear text-black text-lg !leading-[100%]",
-                          children: "telegram",
+                          children: "twitter",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://t.me/@BinanceBookABC",
+                          href: "https://x.com/BOOKOFDYOR",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
-                          children: "→ @BinanceBookABC",
+                          children: "→ @BOOKOFDYOR",
                         }),
-                        (0, l.jsx)("p", {
-                          className:
-                            "single-day text-black text-xl !leading-[100%]",
-                          children: "twitter:",
-                        }),
-                        (0, l.jsx)("a", {
-                          href: "https://x.com/@BinanceBookABC",
-                          className:
-                            "single-day text-[#4C4C4C] text-xl !leading-[100%]",
-                          children: "→ @BinanceBookABC",
-                        }),
+                        
                       ],
                     }),
                   }),
@@ -587,13 +555,13 @@
                       children: [
                         (0, l.jsx)("h1", {
                           className: "text-black mama-bear text-md mb-2",
-                          children: "WHAT IS BOOK OF BNB?",
+                          children: "WHAT IS BOOK OF DYOR?",
                         }),
                         (0, l.jsx)("p", {
                           className:
                             "single-day text-black text-sm !leading-[100%]",
                           children:
-                            "Book of BNB ($ABC) is a meme token inspired by Binance’s legendary “book” moment. It celebrates the culture, humor, and community of crypto while carrying forward the spirit of that iconic tweet. Simple, fun, and community-driven it’s more than just a token,\xa0it’s\xa0a\xa0story.",
+                            "Book of DYOR ($ABC) is a meme token inspired by Binance’s legendary “book” moment. It celebrates the culture, humor, and community of crypto while carrying forward the spirit of that iconic tweet. Simple, fun, and community-driven it’s more than just a token,\xa0it’s\xa0a\xa0story.",
                         }),
                       ],
                     }),
@@ -637,7 +605,7 @@
                           className:
                             "single-day text-black text-sm !leading-[100%]",
                           children:
-                            "Book of BNB ($ABC) is a community-driven meme token on BNB Chain, blending fun, memes, and crypto vibes. We’re here to write a new chapter in meme coin history — with laughs, unity, and\xa0 moon\xa0missions.",
+                            "Book of DYOR ($ABC) is a community-driven meme token on BNB Chain, blending fun, memes, and crypto vibes. We’re here to write a new chapter in meme coin history — with laughs, unity, and\xa0 moon\xa0missions.",
                         }),
                       ],
                     }),
@@ -715,7 +683,7 @@
                             className:
                               "single-day text-black text-sm !leading-[100%] mt-8",
                             children:
-                              "That’s how Book of BNB ($ABC) was born. From community jokes to a real token, we’ve grown into a project that unites people with laughter, creativity, and the dream of going to the\xa0moon\xa0together.",
+                              "That’s how Book of DYOR ($ABC) was born. From community jokes to a real token, we’ve grown into a project that unites people with laughter, creativity, and the dream of going to the\xa0moon\xa0together.",
                           }),
                         }),
                       ],
@@ -884,7 +852,7 @@
               }),
               (0, l.jsx)("p", {
                 className: "single-day text-xl absolute bottom-3",
-                children: "\xa9 2025 BOOK OF BNB . All rights reserved.",
+                children: "\xa9 2025 BOOK OF DYOR . All rights reserved.",
               }),
             ],
           })
