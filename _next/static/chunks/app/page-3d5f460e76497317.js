@@ -122,7 +122,7 @@
                   "flex items-center gap-2 absolute top-8 right-8 md:right-6",
                 children: [
                   (0, l.jsx)("a", {
-                    href: "https://x.com/BOOKOFDYOR",
+                    href: "https://x.com/BookofDyorBNB",
                     children: (0, l.jsx)(i.default, {
                       src: "/x.svg",
                       alt: "logo",
@@ -133,7 +133,7 @@
                     }),
                   }),
                   (0, l.jsxs)("a", {
-                    href: "https://pancakeswap.finance/swap?outputCurrency=0x6c5afb575315e83e4a424af40b639b20fb8a40dd",
+                    href: "https://four.meme/",
                     className:
                       "border-2 border-[#F0B912] rounded-full px-8 py-2 text-[#F0B912] transition-transform duration-300 hover:scale-105 hover:-translate-y-1 relative",
                     children: [
@@ -502,10 +502,10 @@
                           children: "twitter",
                         }),
                         (0, l.jsx)("a", {
-                          href: "https://x.com/BOOKOFDYOR",
+                          href: "https://x.com/BookofDyorBNB",
                           className:
                             "single-day text-[#4C4C4C] text-xl !leading-[100%] mb-8",
-                          children: "→ @BOOKOFDYOR",
+                          children: "→ @BookofDyorBNB",
                         }),
                         
                       ],
@@ -817,7 +817,7 @@
                             children: "Buy Now:",
                           }),
                           (0, l.jsx)("a", {
-                            href: "https://pancakeswap.finance/swap?outputCurrency=0x6c5afb575315e83e4a424af40b639b20fb8a40dd",
+                            href: "fourmem",
                             className:
                               "single-day text-[#4C4C4C] text-sm !leading-[100%] mb-2",
                             children: "→ PancakeSwap",
