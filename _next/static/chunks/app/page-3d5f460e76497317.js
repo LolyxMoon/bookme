@@ -263,8 +263,8 @@
                       "bg-[radial-gradient(50%_50%_at_50%_50%,#282827_0%,#2A2A29_100%)] px-24 py-[12%]",
                     children: (0, l.jsx)(i.default, {
                       src: "/bnb.png",
-                      width: 500,
-                      height: 500,
+                      width: 800,
+                      height: 800,
                       alt: "img",
                     }),
                   }),
