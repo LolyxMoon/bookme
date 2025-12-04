@@ -274,13 +274,13 @@
                     children: [
                       (0, l.jsx)("h1", {
                         className: "text-black mama-bear text-3xl mb-2",
-                        children: "About bnb book",
+                        children: "About BOOK OF DYOR",
                       }),
                       (0, l.jsx)("p", {
                         className:
                           "single-day text-black text-xl !leading-[100%]",
                         children:
-                          "Book of DYOR ($ABC) is a community-driven meme token on BNB Chain, blending fun, memes, and crypto vibes. We’re here to write a new chapter in meme coin history — with laughs, unity, and\xa0moon\xa0missions.",
+                          "Book of DYOR ($ABC) is a community-driven meme token on BNB Chain, Fast, Formula F1, and crypto vibes. We’re here to write a new chapter in meme coin history — with adrenaline, unity, and\xa0Podium\xa0missions.",
                       }),
                     ],
                   }),
